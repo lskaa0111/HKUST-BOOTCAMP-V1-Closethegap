@@ -1,4 +1,4 @@
-# Brownie Developments for Givechain 
+# Bootcamp Developments for CTGchain 
 
 ## Overview
 
